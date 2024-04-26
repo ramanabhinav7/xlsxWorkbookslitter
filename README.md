@@ -1,2 +1,2 @@
 # xlsxWorkbookslitter
-It will slits your single xlsx into multiple single files
+It will splits your single xlsx into multiple single files
